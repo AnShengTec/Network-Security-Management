@@ -1,11 +1,11 @@
 # 物联网安全技术与管理
-
+物联网是新一代信息技术的重要组成部分，也是“信息化”时代的重要发展阶段。
 ## 目录
 
 1. 物联网及其系统架构
 2. 物联网感知层的安全威胁及对策
 3. 物联网网络层的安全威胁及对策
-4. 物联网应用层的安全威胁及对策
+4. 物联网安全技术架构
 
 ## 一、物联网及其系统架构
 
@@ -23,7 +23,7 @@
 
 物联网系统架构：公认的三层架构 
 
- ![](https://github.com/AnShengTec/Network-Security-Management/blob/master/image/image_matter_01.jpeg)
+ ![](/image/image_matter_01.jpeg)
 
 
 ### 1.1 物联网及其系统架构-感知层
@@ -140,7 +140,7 @@
 
 ![](https://github.com/AnShengTec/Network-Security-Management/blob/master/image/image_matter_09.jpeg)
 
-## 四、物联网安全技术
+## 四、物联网安全技术架构
 
 * 基础核心技术：
     * 密码技术
